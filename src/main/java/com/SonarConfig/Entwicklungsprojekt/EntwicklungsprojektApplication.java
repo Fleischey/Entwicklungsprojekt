@@ -53,7 +53,7 @@ public class EntwicklungsprojektApplication {
 		
 		ApiController a = new ApiController();
 		FileExplorer gui = new FileExplorer(a);
-		
+		//Writer w = new Writer(a);
 	}
 	
 }
